@@ -379,6 +379,7 @@ export default {
 
       this.dialogEditar = true;
       this.isNew = true;
+      this.readOnly = false;
     },
   },
   created() {

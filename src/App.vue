@@ -14,7 +14,7 @@
           </v-list-item-action>
           <v-list-item-title class="sidebarTitle">Inicio</v-list-item-title>
         </v-list-item>
-        <v-list-item to="/about" exact color="primary">
+        <v-list-item to="/empleados" exact color="primary">
           <v-list-item-action>
             <v-icon style="width: 25px">fa-sharp fa-solid fa-sitemap</v-icon>
           </v-list-item-action>
